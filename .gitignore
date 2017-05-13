@@ -9,6 +9,9 @@
 # RTL sources
 !rtl/**
 
+# Testbenches
+!tb/**
+
 # Constraints
 !constraints/**
 
