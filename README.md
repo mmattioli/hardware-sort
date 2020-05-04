@@ -1,6 +1,6 @@
 # Hardware-accelerated Sorting Algorithm
 
-# About
+## About
 
 Hardware-accelerated sorting algorithm in which unsorted **data elements are presented serially and
 evaluated against the sorted collection of data elements in parallel**. The algorithm is implemented
